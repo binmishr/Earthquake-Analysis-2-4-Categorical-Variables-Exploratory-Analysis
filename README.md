@@ -1,0 +1,1 @@
+# Earthquake-Analysis-2-4-Categorical-Variables-Exploratory-Analysis
